@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<3DEnvironment>
+	<object x="-169.4" y="0" z="-354.6" url="0002A/tablet.swf" regName="MenuLink0"/>
+	<object x="-1.7" y="0" z="-395" url="0002A/tablet.swf" regName="MenuLink1"/>
+	<object x="172.5" y="0" z="-359.4" url="0002A/tablet.swf" regName="MenuLink2"/>
+	<object x="308" y="0" z="-251.2" url="0002A/tablet.swf" regName="MenuLink3"/>
+	<object x="383.7" y="0" z="-94.7" url="0002A/tablet.swf" regName="MenuLink4"/>
+	<object x="383.7" y="0" z="80.2" url="0002A/tablet.swf" regName="MenuLink5"/>
+	<object x="305.9" y="0" z="240.9" url="0002A/tablet.swf" regName="MenuLink6"/>
+	<object x="167.4" y="0" z="355.1" url="0002A/tablet.swf" regName="MenuLink7"/>
+	<object x="2.1" y="0" z="394.9" url="0002A/tablet.swf" regName="MenuLink8"/>
+	<object x="-171.7" y="0" z="359.9" url="0002A/tablet.swf" regName="MenuLink9"/>
+	<object x="-307.4" y="0" z="252.8" url="0002A/tablet.swf" regName="MenuLink10"/>
+	<object x="-383.7" y="0" z="97.2" url="0002A/tablet.swf" regName="MenuLink11"/>
+	<object x="-383.8" y="0" z="-79.8" url="0002A/tablet.swf" regName="MenuLink12"/>
+	<object x="-314.9" y="0" z="-238.1" url="0002A/tablet.swf" regName="MenuLink13"/>
+</3DEnvironment>

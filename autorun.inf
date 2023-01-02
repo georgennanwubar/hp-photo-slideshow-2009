@@ -1,0 +1,5 @@
+[Autorun]
+Open=HPTL09.exe
+Icon=icon.ico
+Title="HP Tech Live Tour By Goge Africa"
+Action="Start Slide Show"
